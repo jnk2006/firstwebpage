@@ -45,3 +45,21 @@ header.row
     display: flex;
     align-items: center;
 }
+
+footer .col-sm-8,p
+{
+    display: flex;
+    justify-content: flex-end;
+}
+
+footer li img .pull-right
+{
+    width: 5em;
+    height: 5em;
+    float: right;
+}
+
+footer ul
+{
+    display: inline;
+}
